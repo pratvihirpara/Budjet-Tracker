@@ -1,9 +1,4 @@
-Here is a complete and professional `README.md` file for your Vue 3 project (e.g., Budget Tracker or similar) with all essential features and explanations:
-
----
-
-```markdown
-# 🧾 Vue 3 Budget Tracker
+Budget Tracker
 
 A modern, responsive Budget Tracker built with **Vue 3**, **Pinia**, **Vue Router**, and **Chart.js**.  
 Track your income and expenses, categorize transactions, visualize spending, and manage your budget with ease.
@@ -56,8 +51,6 @@ Track your income and expenses, categorize transactions, visualize spending, and
 
 ## 🏗️ Project Structure
 
-```
-
 budget-tracker/
 ├── public/
 ├── src/
@@ -72,36 +65,6 @@ budget-tracker/
 ├── package.json
 └── README.md
 
-````
-
----
-
-## 💻 Project Setup
-
-### Install Dependencies
-```bash
-npm install
-````
-
-### Start Development Server
-
-```bash
-npm run serve
-```
-
-### Build for Production
-
-```bash
-npm run build
-```
-
-### Lint and Fix Files
-
-```bash
-npm run lint
-```
-
----
 
 ## 🧩 Customize Configuration
 
@@ -147,9 +110,6 @@ You can customize Vue CLI config in:
 
 > 
 
-
-
----
 
 
 ## 🙌 Acknowledgments
