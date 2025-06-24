@@ -157,11 +157,4 @@ You can customize Vue CLI config in:
 * Inspired by real-world budgeting apps like Mint, YNAB
 * Vue.js documentation and community tutorials
 
----
-
-## 📬 Feedback & Contributions
-
-Found a bug or have a feature idea?
-Feel free to open an issue or a pull request. Contributions are welcome!
-
 
